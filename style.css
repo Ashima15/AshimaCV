@@ -1,0 +1,44 @@
+.screen{
+    background-color: #e4e4e4;
+    font-family: "Roboto", sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: darkslateblue !important;
+}
+
+.fa{
+    color:darkslateblue;
+    margin-right: 20px;
+}
+
+.card{
+    margin-top: 15px;
+}
+
+h4{
+    margin-bottom: 10px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+}
+
+li{
+    margin: 8px 0px;    
+}
+
+.progress{
+    margin: 10px 0px;
+    border-radius: 100rem !important;
+}
+
+.progress-bar{
+    background-color: darkslateblue !important;
+}
+
+a{
+    color: darkslateblue !important;
+}
